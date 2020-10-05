@@ -38,6 +38,7 @@
 - [Margarita Fernandez](https://github.com/Marga1998)
 - [Andrew Peattie](https://github.com/atrp87)
 - [Himanshi Kaushik](https://github.com/himanshi1996)
+- [Sajjad Bin Samad] (https://github.com/SajjadBinSamad)
 - [Ananya Bal](https://github.com/Anniebbb)
 - [Klaudia Blazyczek](https://github.com/Vesperalin)
 - [Kyara van Putten](https://github.com/Kiralinn)
